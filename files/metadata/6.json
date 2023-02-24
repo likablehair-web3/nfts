@@ -1,0 +1,15 @@
+{
+  "name": "My Collection #6",
+  "description": "MasterZ Dev Collection",  
+  "images": "ipfs://QmV3JMMswLrumudfAiZRyipuz93KeAxCkefGhBWMG1sJpe/6.png",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Black and White"
+    },
+    {
+      "trait_type": "City",
+      "value": "Milan"
+    }
+  ]
+}
